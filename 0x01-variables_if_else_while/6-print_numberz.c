@@ -10,7 +10,7 @@
 
 int main(void)
 {
-	char c;
+	short c;
 
 	for (c = '0'; c <= '9'; c++)
 	{
