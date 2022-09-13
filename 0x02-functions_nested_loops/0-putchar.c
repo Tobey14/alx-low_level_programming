@@ -16,8 +16,7 @@ int main(void)
 	for (c = 0; c < sizeof(putchar); c++)
 	{
 		_putchar(putchar[c]);
-	}	
-	
+	}
 	_putchar('\n');
 	return (0);
 }
