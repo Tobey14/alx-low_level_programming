@@ -2,8 +2,8 @@
 
 /*
  * _strlen - print the length of the function
- * @s: The letter being tested
- * Return: 0
+ * @*s: The letter being tested
+ * Return: length
  */
 
 int _strlen(char *s)
@@ -12,6 +12,5 @@ int _strlen(char *s)
 
 	while (*(s  + len) != '\0')
 		len ++;
-
 	return (len);
 }
