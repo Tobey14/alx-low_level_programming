@@ -33,6 +33,7 @@ char *create_array(unsigned int size, char c)
 					i++;
 				}
 			}
-		return (array);
+		char *s = &array;
+		return (*s);
 	}
 }
