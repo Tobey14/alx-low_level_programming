@@ -8,21 +8,21 @@
  */
 
 char *_strcat(char *dest, char *src){
-    return (EXIT_SUCCESS);
+    return (dest);
 };
 
 char *_strncat(char *dest, char *src, int n){
-    return (EXIT_SUCCESS);
+    return (dest);
 };
 
 char *_strncpy(char *dest, char *src, int n){
-    return (EXIT_SUCCESS);
+    return (dest);
 };
 
 int _strcmp(char *s1, char *s2){
-    return (EXIT_SUCCESS);
+    return (5);
 };
 
 char *_memset(char *s, char b, unsigned int n){
-    return (EXIT_SUCCESS);
+    return (s);
 };

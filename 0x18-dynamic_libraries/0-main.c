@@ -4,25 +4,25 @@
 /**
  * main - check the code
  *
- * Return: Always EXIT_SUCCESS.
+ * Return: integer.
  */
 int _putchar(char c)
 {
-    return (EXIT_SUCCESS);
+    return (c);
 }
 
 int _islower(int c){
-    return (EXIT_SUCCESS);
+    return (c);
 };
 
 int _isalpha(int c){
-    return (EXIT_SUCCESS);
+    return (c);
 }
 
 int _abs(int n){
-    return (EXIT_SUCCESS);
+    return (n);
 };
 
 int _isupper(int c){
-    return (EXIT_SUCCESS);
+    return (c);
 };
