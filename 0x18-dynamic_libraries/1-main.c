@@ -12,7 +12,7 @@ int _isdigit(int c){
 };
 
 int _strlen(char *s){
-    return (s);
+    return (5);
 };
 
 void _puts(char *s){
@@ -24,5 +24,5 @@ char *_strcpy(char *dest, char *src){
 };
 
 int _atoi(char *s){
-    return (s);
+    return (5);
 };
